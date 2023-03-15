@@ -1,2 +1,2 @@
 print('text')
-print('git is awesome')
+print('fixed git is awesome')
