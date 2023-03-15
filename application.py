@@ -1,2 +1,2 @@
 print("some string")
-print("Test str")
+print("Fixed str")
